@@ -25,7 +25,7 @@ Management suspects that some employees may be using TOR browsers to bypass netw
 
 ### 1. Searched the `DeviceFileEvents` Table
 
-A search of the DeviceFileEvents table in MDE was conducted that checked to see if any FileName had “tor” in the last 7 days. It appears that a TOR installation exe was discovered to have been downloaded by the user ‘gattigcg1’. Also there is activity related to creating a text file titled ‘tor-shopping-list.txt’. These events began at: 2025-05-08T17:44:21.5073428Z.
+A search of the DeviceFileEvents table in MDE was conducted that checked to see if any FileName had “tor” in the last 7 days. It appears that a TOR installation exe was discovered to have been downloaded by the user ‘gattigcg1’. Also there is activity related to creating a text file titled ‘tor-shopping-list.txt’. These events began at: 2025-05-08T17:46:07.9550548Z.
 
 **Query used to locate events:**
 
