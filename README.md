@@ -123,7 +123,7 @@ DeviceNetworkEvents
 ### 5. Network Activity - Device Network Events
 
 - **Timestamp:** `2025-05-09T22:56:40.3203592Z`
-- **Event:** A network connection on port `9151` and '9150' by user "gattigcg1" was established using `tor.exe`, confirming TOR browser network activity.
+- **Event:** A network connection on port `9151` and `9150` by user "gattigcg1" was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
 - **File Path:** `c:\users\employee\desktop\tor browser\browser\torbrowser\tor\tor.exe`
